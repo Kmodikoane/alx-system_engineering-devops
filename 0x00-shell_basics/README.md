@@ -1,1 +1,1 @@
-directory path
+Display directory contents in long format
